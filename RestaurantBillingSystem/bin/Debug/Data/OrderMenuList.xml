@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OrderMenu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Dish>
+    <DishName>Hamburger</DishName>
+    <DishType>Main</DishType>
+    <Cost>8.99</Cost>
+  </Dish>
+  <Dish>
+    <DishName>Hotdog</DishName>
+    <DishType>Main</DishType>
+    <Cost>5.99</Cost>
+  </Dish>
+  <Dish>
+    <DishName>Soda</DishName>
+    <DishType>Drink</DishType>
+    <Cost>2.50</Cost>
+  </Dish>
+  <Dish>
+    <DishName>Icecream</DishName>
+    <DishType>Dessert</DishType>
+    <Cost>3.99</Cost>
+  </Dish>
+  <Dish>
+    <DishName>Fries</DishName>
+    <DishType>Appetizer</DishType>
+    <Cost>4.99</Cost>
+  </Dish>
+  <Dish>
+    <DishName>Pasta</DishName>
+    <DishType>Main</DishType>
+    <Cost>9.99</Cost>
+  </Dish>
+  <Dish>
+    <DishName>Sushi</DishName>
+    <DishType>Main</DishType>
+    <Cost>10.00</Cost>
+  </Dish>
+  <Dish>
+    <DishName>Beer</DishName>
+    <DishType>Drink</DishType>
+    <Cost>7.99</Cost>
+  </Dish>
+  <Dish>
+    <DishName>Lemonade</DishName>
+    <DishType>Drink</DishType>
+    <Cost>3.99</Cost>
+  </Dish>
+  <Dish>
+    <DishName>Coffee</DishName>
+    <DishType>Drink</DishType>
+    <Cost>3.25</Cost>
+  </Dish>
+  <Dish>
+    <DishName>Poutine</DishName>
+    <DishType>Appetizer</DishType>
+    <Cost>8.99</Cost>
+  </Dish>
+  <Dish>
+    <DishName>Sandwich</DishName>
+    <DishType>Main</DishType>
+    <Cost>8.99</Cost>
+  </Dish>
+  <Dish>
+    <DishName>Lunch Buffet</DishName>
+    <DishType>Main</DishType>
+    <Cost>19.99</Cost>
+  </Dish>
+  <Dish>
+    <DishName>Dinner Buffet</DishName>
+    <DishType>Main</DishType>
+    <Cost>27.99</Cost>
+  </Dish>
+  <Dish>
+    <DishName>Butter Chicken</DishName>
+    <DishType>Main</DishType>
+    <Cost>13.99</Cost>
+  </Dish>
+  <Dish>
+    <DishName>Coconut Pie</DishName>
+    <DishType>Dessert</DishType>
+    <Cost>7.99</Cost>
+  </Dish>
+</OrderMenu>

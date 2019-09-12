@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OrderMenu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Dishes>
+    <Dish>
+      <DishName>Tuna Sandwich</DishName>
+      <DishType>Entrée</DishType>
+      <Cost>5.99</Cost>
+    </Dish>
+    <Dish>
+      <DishName>BBQ Sandwich</DishName>
+      <DishType>Entrée</DishType>
+      <Cost>7.99</Cost>
+    </Dish>
+    <Dish>
+      <DishName>Steak Sandwich</DishName>
+      <DishType>Entrée</DishType>
+      <Cost>9.99</Cost>
+    </Dish>
+	<Dish>
+      <DishName>Fries</DishName>
+      <DishType>Side</DishType>
+      <Cost>2.99</Cost>
+    </Dish>
+	<Dish>
+      <DishName>Soup</DishName>
+      <DishType>Side</DishType>
+      <Cost>2.99</Cost>
+    </Dish>
+	<Dish>
+      <DishName>Onion Rings</DishName>
+      <DishType>Appetizer</DishType>
+      <Cost>5.99</Cost>
+    </Dish>
+	<Dish>
+      <DishName>Taco Salad</DishName>
+      <DishType>Appetizer</DishType>
+      <Cost>6.99</Cost>
+    </Dish>
+	<Dish>
+      <DishName>Soda</DishName>
+      <DishType>Drink</DishType>
+      <Cost>1.99</Cost>
+    </Dish>
+	<Dish>
+      <DishName>Icecream</DishName>
+      <DishType>Dessert</DishType>
+      <Cost>2.99</Cost>
+    </Dish>
+  </Dishes>
+</OrderMenu>
